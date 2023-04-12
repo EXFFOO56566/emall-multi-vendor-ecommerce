@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813991381921",
+    "firebase_url": "https://emall-713a4.firebaseio.com",
+    "project_id": "emall-713a4",
+    "storage_bucket": "emall-713a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813991381921:android:7e2160d68a2392ccd8d9e0",
+        "android_client_info": {
+          "package_name": "com.example.DeliveryBoyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813991381921-mksolcv2a662p21m7qa2urt7b6ttsj53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYp2qzkrlGvMtkxo9RspxynoQP3TmNOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813991381921-mksolcv2a662p21m7qa2urt7b6ttsj53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
